@@ -1,0 +1,11 @@
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/RootShell.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/LglSwitch.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/Prefs.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/DebugLog.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/NativeRunner.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/Dokunma.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/Yamalar.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/ProcList.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/MainActivity.java
+/data/data/com.termux/files/home/valvehack/src/com/valvehack/modmenu/FloatingService.java
+/data/data/com.termux/files/home/valvehack/build/gen/com/valvehack/modmenu/R.java
